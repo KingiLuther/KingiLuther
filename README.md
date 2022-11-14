@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingiLuther
 - 👀 I’m interested in : photographing, cooking,
-- 🌱 I’m currently learning : computer network, python
+- 🌱 I’m currently learning : computer network, operating system
 - 💞️ I’m looking to collaborate on : not much
 - 📫 How to reach me : kingluther@foxmail.com
 
